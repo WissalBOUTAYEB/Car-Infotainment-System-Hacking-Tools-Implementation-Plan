@@ -2,9 +2,11 @@
 
 📌 Objective:
 
+
 Developing  a set of hacking tools to simulate cyberattacks on car infotainment systems, identifying vulnerabilities in navigation, audio, video, and communication systems. The project will target connectivity protocols (Bluetooth, Wi-Fi, USB, CAN Bus, OTA updates) and access control weaknesses, with the ultimate goal of improving security defenses.
 
 1️⃣ Project Scope & Key Areas of Attack
+
 
 🔹 Attack Surfaces & Vulnerabilities
 
@@ -46,31 +48,46 @@ Unauthorized remote control
 
 2️⃣ Project Roles
 
+
 ✅ Exploiting Bluetooth, Wi-Fi & mobile apps
+
 
 ✅ Using tools like Wireshark, Aircrack-ng, Hcitool, Bettercap
 
+
 ✅ Testing MITM attacks & packet sniffing
+
 
 ✅ Exploiting CAN Bus & ECU communication
 
+
 ✅ Using tools like CANtact, ICSim, Kayak, UDSim
+
 
 ✅ Performing message injection & replay attacks
 
+
 ✅ Analyzing the  OTA update vulnerabilities & API security
+
 
 ✅ Using  tools like Burp Suite, Postman, OpenSSL, Ghidra
 
+
 ✅ Testing firmware tampering & authentication bypass
 
+
 3️⃣ Tools & Technologies for Hacking & Defense
+
 Category
+
 Tool Name
+
 Usage
+
 Network Sniffing
 
 Wireshark, Bettercap
+
 
 Capture infotainment traffic
 
@@ -108,7 +125,9 @@ USB Attack Simulation
 
 Rubber Ducky, BadUSB
 
+
 Inject malware via infotainment USB ports
+
 
 4️⃣ Implementation Steps
 
