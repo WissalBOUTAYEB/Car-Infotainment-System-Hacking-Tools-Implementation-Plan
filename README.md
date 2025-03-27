@@ -59,8 +59,11 @@ Unauthorized remote control
 ✅ Performing message injection & replay attacks
 
 ✅ Analyzing the  OTA update vulnerabilities & API security
+
 ✅ Using  tools like Burp Suite, Postman, OpenSSL, Ghidra
+
 ✅ Testing firmware tampering & authentication bypass
+
 3️⃣ Tools & Technologies for Hacking & Defense
 Category
 Tool Name
@@ -109,6 +112,7 @@ Inject malware via infotainment USB ports
 
 4️⃣ Implementation Steps
 
+
 📌 Phase 1: Research & Attack Surface Mapping 
 
 ✅ Identifing attack vectors in infotainment systems
@@ -117,7 +121,8 @@ Inject malware via infotainment USB ports
 
 ✅ Seting  up penetration testing tools (Wireshark, Bettercap, Aircrack-ng, CANtact)
 
-📌 Phase 2: Attack Implementation (Weeks 3-6)
+📌 Phase 2: Attack Implementation 
+
 🛠️ 1. Bluetooth & Wi-Fi Hacking
 
 ✅ Sniff infotainment data packets (Wireshark, Bettercap)
